@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,snapp.ir
+DOMAIN-SUFFIX,digikala.com
